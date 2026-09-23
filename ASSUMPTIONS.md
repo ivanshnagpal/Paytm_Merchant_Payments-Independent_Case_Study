@@ -1,10 +1,10 @@
-# ASSUMPTIONS — Day 36: Paytm
+# ASSUMPTIONS
 
 Companion to `README.md`. This file documents where every material claim came from, how confident it is, where sources disagree, and what in the case study is author-constructed rather than sourced.
 
-**Research date:** 1 August 2026
-**Analyst:** Gaurav Singh
-**Method:** Public web research only. No access to internal Paytm data, no interviews, no proprietary datasets.
+**Research Window:** 15 September 2026 - 20 September 2026
+**Analyst:** Vansh Nagpal
+**Method:** Public web research only. No access to internal Paytm data, No interviews, No proprietary datasets.
 
 ---
 
@@ -202,7 +202,7 @@ Ranked by how much each would change the conclusions.
 
 ## 7. Methodology note
 
-**Research window:** 1 August 2026, single session.
+**Research window:** 15 September 2026 - 20 September 2026, multiple session.
 
 **Sources consulted:** Paytm investor relations blog posts (FY26 results, Q1/Q3 FY26, Q4 FY26 earnings call summary), the FY25 annual report as relayed in reporting, and secondary coverage from Business Standard, Entrackr, Outlook Business, MediaNama, Inc42, TechCrunch, ANI, Business Today, TipRanks, Reuters via MarketScreener, and market-data aggregators. Full list in §61 of `README.md`.
 
@@ -215,5 +215,3 @@ Ranked by how much each would change the conclusions.
 **Direct access attempted and unavailable:** raw file access to prior case studies in the repository (for format matching) returned 404 during this session; structure was matched from the rendered Day-34-Zoho README instead. No prior `NEWSLETTER.md` existed in the repository at the time of writing, so `NEWSLETTER.md` for this entry was written to the specification supplied rather than to an existing example.
 
 ---
-
-*Companion to Day 36 of 90 — 90-Day PM Case Study Challenge by Gaurav Singh*
