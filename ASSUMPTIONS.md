@@ -3,7 +3,7 @@
 Companion to `README.md`. This file documents where every material claim came from, how confident it is, where sources disagree, and what in the case study is author-constructed rather than sourced.
 
 **Research Window:** 15 September 2026 - 20 September 2026
-**Analyst:** Vansh Nagpal
+**Prepared By:** Vansh Nagpal
 **Method:** Public web research only. No access to internal Paytm data, No interviews, No proprietary datasets.
 
 ---
@@ -211,7 +211,5 @@ Ranked by how much each would change the conclusions.
 **Undisclosed baselines:** marked "not disclosed" throughout `README.md` rather than estimated. Four appear in the KPI dashboard in §55 and are listed as Phase 1 deliverables rather than filled in.
 
 **What this method cannot do:** it cannot verify anything Paytm does not publish, cannot separate AI-driven cost savings from restructuring-driven ones, cannot observe merchant behaviour, and cannot assess whether the reported strategy matches internal intent. Every place where the analysis reaches beyond what the sources support is either marked in-line or listed in §4 and §5 above.
-
-**Direct access attempted and unavailable:** raw file access to prior case studies in the repository (for format matching) returned 404 during this session; structure was matched from the rendered Day-34-Zoho README instead. No prior `NEWSLETTER.md` existed in the repository at the time of writing, so `NEWSLETTER.md` for this entry was written to the specification supplied rather than to an existing example.
 
 ---
