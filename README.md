@@ -1,6 +1,4 @@
-# Paytm — Product Management Case Study
-
-**Day 36 of 90 | PM Case Study Challenge**
+# Paytm Merchant Payments — Independent Case Study
 
 ---
 
@@ -9,12 +7,6 @@
 **Product:** Paytm (One97 Communications Ltd — includes Paytm consumer app, Paytm for Business, Paytm Soundbox, Paytm Payments Services Ltd, Paytm Money, Paytm Postpaid)
 
 **Category:** Merchant Payments Infrastructure + Financial Services Distribution
-
-**Author:** Gaurav Singh
-
-**Day:** 36 / 90
-
-**Date Published:** August 1, 2026
 
 ---
 
@@ -35,7 +27,7 @@
 
 ## 3. Badges
 
-Day 36/90 · Category: Fintech / Merchant Payments · Ownership: Publicly Listed (NSE/BSE: PAYTM) · HQ: Noida, India · Status: Published
+Category: Fintech / Merchant Payments · Ownership: Publicly Listed (NSE/BSE: PAYTM) · HQ: Noida, India · Status: Published
 
 ---
 
@@ -1438,11 +1430,3 @@ That it over-reads causation into a coincidence. Paytm's UPI share fell largely 
 
 - `ASSUMPTIONS.md` — evidence grades per claim, full source-conflict table with resolutions, complete list of author-constructed content, methodology note.
 - `NEWSLETTER.md` — condensed standalone essay for the LinkedIn Newsletter.
-
-**D. Day number and queue note**
-
-This entry occupies Day 36. The scheduled queue's entry 36 was AppsFlyer, which was already published as Day 35, so this entry advances to queue entry 37 (Paytm). Queue entries 29 (Razorpay), 30 (Freshworks), 31 (InMobi) and 32 (Groww) were skipped because those day slots were occupied by companies outside the queue — Day 29 Google Ads, Day 30 Meta Ads, Day 31 ChatGPT, Day 32 Sarvam AI. With Paytm published, the ordered queue supplied for this challenge is exhausted.
-
----
-
-*Day 36 of 90 — 90-Day PM Case Study Challenge by Gaurav Singh*
