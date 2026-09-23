@@ -14,14 +14,9 @@
 
 | Field | Value |
 |---|---|
-| Repository | product-management-case-studies |
-| Folder | `Day-36-Paytm/` |
-| Author | Gaurav Singh |
-| Series | 90-Day PM Case Study Challenge |
-| Previous Day | Day 35 — AppsFlyer |
+| Repository | Paytm_Merchant_Payments-Independent_Case_Study |
+| Prepared By | Vansh Nagpal |
 | Companion file | `ASSUMPTIONS.md` — evidence grades, source conflicts, author-constructed content |
-| Newsletter | `NEWSLETTER.md` — condensed essay for LinkedIn Newsletter |
-| License | MIT (see §63 License) |
 
 ---
 
@@ -33,7 +28,7 @@ Category: Fintech / Merchant Payments · Ownership: Publicly Listed (NSE/BSE: PA
 
 ## 4. Table of Contents
 
-**Foundations**
+### 01. Foundations
 
 1. [Cover](#1-cover)
 2. [Repository Metadata](#2-repository-metadata)
@@ -46,22 +41,22 @@ Category: Fintech / Merchant Payments · Ownership: Publicly Listed (NSE/BSE: PA
 9. [Vision & Mission](#9-vision--mission)
 10. [Problem Statement](#10-problem-statement)
 
-**Market & Strategy**
+### 02. Market & Strategy
 
 11. [Market Research](#11-market-research)
 12. [Industry Analysis](#12-industry-analysis)
-13. [TAM/SAM/SOM](#13-tamsamsom)
+13. [TAM / SAM / SOM](#13-tamsamsom)
 14. [Competitor Analysis](#14-competitor-analysis)
-15. [SWOT](#15-swot)
+15. [SWOT Analysis](#15-swot)
 16. [Porter's Five Forces](#16-porters-five-forces)
 17. [Business Model Canvas](#17-business-model-canvas)
 18. [Revenue Model](#18-revenue-model)
 
-**Users & Experience**
+### 03. Users & Experience
 
 19. [Target Users](#19-target-users)
 20. [Personas](#20-personas)
-21. [JTBD](#21-jtbd)
+21. [Jobs-to-be-Done](#21-jtbd)
 22. [User Journey](#22-user-journey)
 23. [User Flow](#23-user-flow)
 24. [Information Architecture](#24-information-architecture)
@@ -69,15 +64,15 @@ Category: Fintech / Merchant Payments · Ownership: Publicly Listed (NSE/BSE: PA
 26. [UI Audit](#26-ui-audit)
 27. [Accessibility](#27-accessibility)
 
-**Product & Growth**
+### 04. Product & Growth
 
 28. [Feature Breakdown](#28-feature-breakdown)
 29. [AI Capabilities](#29-ai-capabilities)
 30. [Product Metrics](#30-product-metrics)
 31. [North Star Metric](#31-north-star-metric)
 32. [Product Analytics](#32-product-analytics)
-33. [AARRR](#33-aarrr)
-34. [HEART](#34-heart)
+33. [AARRR Framework](#33-aarrr)
+34. [HEART Framework](#34-heart)
 35. [Growth Strategy](#35-growth-strategy)
 36. [Growth Loops](#36-growth-loops)
 37. [Network Effects](#37-network-effects)
@@ -85,20 +80,20 @@ Category: Fintech / Merchant Payments · Ownership: Publicly Listed (NSE/BSE: PA
 39. [Monetization](#39-monetization)
 40. [Trust & Safety](#40-trust--safety)
 
-**Technical**
+### 05. Technical Deep Dive
 
 41. [Technical Architecture](#41-technical-architecture)
 42. [Data Flow](#42-data-flow)
 43. [API Ecosystem](#43-api-ecosystem)
 44. [Privacy & Security](#44-privacy--security)
 
-**Opportunity & Proposal**
+### 06. Opportunity & Product Proposal
 
 45. [Pain Points](#45-pain-points)
 46. [Opportunity Mapping](#46-opportunity-mapping)
-47. [RICE](#47-rice)
-48. [MoSCoW](#48-moscow)
-49. [Kano](#49-kano)
+47. [RICE Prioritization](#47-rice)
+48. [MoSCoW Prioritization](#48-moscow)
+49. [Kano Analysis](#49-kano)
 50. [Feature Proposal](#50-feature-proposal)
 51. [PRD](#51-prd)
 52. [Wireframes](#52-wireframes)
@@ -106,13 +101,13 @@ Category: Fintech / Merchant Payments · Ownership: Publicly Listed (NSE/BSE: PA
 54. [A/B Testing](#54-ab-testing)
 55. [KPI Dashboard](#55-kpi-dashboard)
 
-**Forward Look**
+### 07. Forward Look
 
 56. [Product Roadmap](#56-product-roadmap)
 57. [Risks & Mitigation](#57-risks--mitigation)
 58. [Future Vision](#58-future-vision)
 
-**Closing**
+### 08. Closing & Reflection
 
 59. [PM Lessons](#59-pm-lessons)
 60. [PM Interview Questions](#60-pm-interview-questions)
