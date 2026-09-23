@@ -116,6 +116,7 @@ Category: Fintech / Merchant Payments · Ownership: Publicly Listed (NSE/BSE: PA
 63. [License](#63-license)
 64. [Self Review](#64-self-review)
 65. [Appendix](#65-appendix)
+66. [Connect](#66-connect)
 
 ---
 
@@ -1424,4 +1425,12 @@ That it over-reads causation into a coincidence. Paytm's UPI share fell largely 
 **C. Companion files**
 
 - `ASSUMPTIONS.md` — evidence grades per claim, full source-conflict table with resolutions, complete list of author-constructed content, methodology note.
-- `NEWSLETTER.md` — condensed standalone essay for the LinkedIn Newsletter.
+
+---
+
+### 66. Connect
+
+**Vansh Nagpal**
+
+[LinkedIn](https://www.linkedin.com/in/vansh-nagpal-vn011) • [GitHub](https://github.com/ivanshnagpal)
+
